@@ -1,5 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	printf("hello abeer\n");
+	int a = 10;
+	int b = 12;
+
+	printf("%d", a+b);
 }
